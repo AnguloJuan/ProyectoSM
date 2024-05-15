@@ -12,3 +12,9 @@ move_speed = 4;
 /// @DnDComment : Initialize coins value at 0
 /// @DnDArgument : "var" "coins"
 coins = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 16FAC8FB
+/// @DnDArgument : "var" "input_direction"
+input_direction = 0;
