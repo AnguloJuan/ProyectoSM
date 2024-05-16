@@ -23,6 +23,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"ca19dfd1-dad5-4dec-9df0-535026ed5b19","blendMode":0,"displayName":"default","isLocked":false,"name":"ca19dfd1-dad5-4dec-9df0-535026ed5b19","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"10dd21c5-870d-437c-a39c-678834c5665c","blendMode":0,"displayName":"Origen","isLocked":false,"name":"10dd21c5-870d-437c-a39c-678834c5665c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
   ],
   "name":"spr_tileset_minecraft_blocks_floor",
   "nineSlice":{

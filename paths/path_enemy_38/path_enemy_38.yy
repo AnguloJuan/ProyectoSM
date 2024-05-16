@@ -1,0 +1,21 @@
+{
+  "$GMPath":"",
+  "%Name":"path_enemy_38",
+  "closed":true,
+  "kind":1,
+  "name":"path_enemy_38",
+  "parent":{
+    "name":"Level1",
+    "path":"folders/Paths/Level1.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":2688.0,"y":1408.0,},
+    {"speed":100.0,"x":2656.0,"y":1152.0,},
+    {"speed":100.0,"x":2368.0,"y":1152.0,},
+    {"speed":100.0,"x":2368.0,"y":1568.0,},
+    {"speed":100.0,"x":2688.0,"y":1568.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
