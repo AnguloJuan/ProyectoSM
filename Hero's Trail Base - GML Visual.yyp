@@ -61,7 +61,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Hero's Trail Base - GML Visual",
   "resources":[
@@ -104,6 +104,9 @@
     {"id":{"name":"path_enemy_4","path":"paths/path_enemy_4/path_enemy_4.yy",},},
     {"id":{"name":"path_enemy_40","path":"paths/path_enemy_40/path_enemy_40.yy",},},
     {"id":{"name":"path_enemy_41","path":"paths/path_enemy_41/path_enemy_41.yy",},},
+    {"id":{"name":"Path12","path":"paths/Path12/Path12.yy",},},
+    {"id":{"name":"Path13","path":"paths/Path13/Path13.yy",},},
+    {"id":{"name":"Path14","path":"paths/Path14/Path14.yy",},},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
