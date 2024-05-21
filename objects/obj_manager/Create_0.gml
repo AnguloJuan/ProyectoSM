@@ -29,3 +29,10 @@ audio_play_sound(snd_music_game, 0, 1, 1.0, undefined, 1.0);
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "pause"
 pause = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 7AEBCFDE
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "winner"
+winner = false;
